@@ -61,6 +61,7 @@
     "multer": "1.4.1",
     "mustache": "2.3.2",
     "node-red-contrib-auth": "^0.1.7",
+    "node-red-contrib-postgres": "^0.6.1",
     "node-red-node-email": "0.1.*",
     "node-red-node-feedparser": "^0.1.12",
     "node-red-node-mysql": "0.0.17",
